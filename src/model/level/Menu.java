@@ -120,8 +120,7 @@ public class Menu implements ILevel {
 		int x = 150;
 		int y = 350;
 
-		String[] name = { "Pham Quang Tuan - 16130646", "Bui Minh Hieu - 16130375", "Ngo Van Nhan - 16130495", "Phu Van Son - 16130552",
-				"Nguyen Le Khang - 16130419" };
+		String[] name = {"Ca1tex - khangca1tex" };
 
 		for (int i = 0; i < name.length; i++) {
 			g.drawString(name[i], x, y + i * 33);
